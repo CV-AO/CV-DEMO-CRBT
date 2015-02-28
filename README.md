@@ -15,7 +15,7 @@ Set directory '/opt/cv/ao-module'.
 　　　┗ ao-sox.sh----------音声ファイルコーデック変換  
 　　　┗ ao-wav2text.sh----------音声テキスト変換  
   
-　※常駐コマンド  
+- 常駐コマンド  
 　> cd /opt/cv/ao-module/log  
 　> nohup sudo /opt/cv/ao-module/ao-main.sh > out.log 2> err.log &  
 　  
