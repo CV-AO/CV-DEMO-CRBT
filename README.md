@@ -15,11 +15,11 @@ Set directory '/opt/cv/ao-module'.
 　　　┗ ao-m4a2wav.sh----------音声ファイルフォーマット変換  
 　　　┗ ao-sox.sh----------音声ファイルコーデック変換  
 　　　┗ ao-wav2text.sh----------音声テキスト変換  
-  
+
 - 常駐コマンド  
 　> cd /opt/cv/ao-module/log  
 　> nohup sudo /opt/cv/ao-module/ao-main.sh > out.log 2> err.log &  
-　  
+
 - DropBoxデータ  
 　/opt/cv-data/  
 　┗ dbRAW----------ネイティブアプリからアップロードされる音声ファイル  
