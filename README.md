@@ -3,10 +3,11 @@ This is CV-DEMO core batch repository.
 Set directory '/opt/cv/ao-module'.  
 
 # モジュール一覧
-/opt/cv/  
-　┗ julius----------音声解析コア  
-　┗ dictation-kit----------音声書き起こしコア  
-　┗ ffmpeg_sources----------コーデック変換  
+- モジュール（★は環境へのインストールが必要）  
+　/opt/cv/  
+　┗ julius----------音声解析コア（★）  
+　┗ dictation-kit----------音声書き起こしコア（★）    
+　┗ ffmpeg_sources----------コーデック変換（★）  
 　┗ ao-module  
 　　　┗ dropbox.py----------dropbox同期起動停止スクリプト  
 　　　┗ ao-modulepack.sh----------音声解析モジュールパッケージ  
