@@ -1,6 +1,7 @@
 # CV-DEMO-CRBT
 This is CV-DEMO core batch repository.  
-Set directory '/opt/cv/ao-module'.  
+Set directory ao-module to '/opt/cv/ao-module'.  
+Prototype is first source (Auth by Kumagaya).  
 
 # モジュール一覧
 - モジュール（★は環境へのインストールが必要）  
